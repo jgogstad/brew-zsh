@@ -1,2 +1,3 @@
 # brew-zsh
-Homebrew ZSH Plugin
+
+Sane defaults for Homebrew
